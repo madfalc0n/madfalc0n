@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-![Madfalc0n's github stats](https://github-readme-stats.vercel.app/api?username=madfalc0n&show_icons=true&theme=default)
+![Madfalc0n's github stats](https://github-readme-stats.vercel.app/api?username=madfalc0n&show_icons=true&theme=gradient&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,4000FF,7401DF,DF01D7)
 
 <!--
 **madfalc0n/madfalc0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
