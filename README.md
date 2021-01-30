@@ -21,6 +21,19 @@
 - Network
   - Wireshark | TCPDUMP | F5 BIG-IP(LTM,APM) | Radware Alteon L4
 
+### Competition History
+
+- Kaggle
+  - [ASHRAE - Great Energy Predictor III](https://www.kaggle.com/c/ashrae-energy-prediction) - TOP 10% (333/3614)
+  - [Prostate cANcer graDe Assessment (PANDA) Challenge](https://www.kaggle.com/c/prostate-cancer-grade-assessment) - TOP 14% (135/1010)
+- Dacon
+  - [제주 신용카드 빅데이터 경진대회](https://dacon.io/competitions/official/235615/overview) - TOP 32% (128/411)
+  - [반도체 박막 두께 분석 경진대회](https://dacon.io/competitions/official/235554/overview/) - TOP 10% (22/230)
+- [NIPA](https://ai-korea.kr/info/contestPost.do)
+  - 식물종류 및 질병 이미지 분류 모델(예선) - pass
+  - 태영세라믹 - 타일 이미지 내 미세 Crack 검출 - (4/29)
+  - 마인즈앤컴퍼니 - 병원 영수증 인식을 위한 OCR 알고리즘 개발 - (5/10)
+
 
 
 ![Madfalc0n's github stats](https://github-readme-stats.vercel.app/api?username=madfalc0n&show_icons=true&theme=gradient&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,4000FF,7401DF,DF01D7)
