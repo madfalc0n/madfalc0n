@@ -29,6 +29,7 @@
 - Dacon
   - [제주 신용카드 빅데이터 경진대회](https://dacon.io/competitions/official/235615/overview) - TOP 32% (128/411)
   - [반도체 박막 두께 분석 경진대회](https://dacon.io/competitions/official/235554/overview/) - TOP 10% (22/230)
+  - [시스템 품질 변화로 인한 사용자 불편 예지 AI 경진대회](https://dacon.io/competitions/official/235687/overview/description/) - TOP 14% (140/418)
 - [NIPA](https://ai-korea.kr/info/contestPost.do)
   - 식물종류 및 질병 이미지 분류 모델(예선) - pass
   - 태영세라믹 - 타일 이미지 내 미세 Crack 검출 - (4/29)
