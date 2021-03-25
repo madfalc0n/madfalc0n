@@ -7,7 +7,8 @@
 - 1일 1커밋을 통해 Github의 풀밭을 가꾸는 것이 취미입니다.
 - 가끔 한강을 배경으로 달리기도 합니다.
 - 저의 일과를 [Study History](https://github.com/madfalc0n/study_history/tree/master/Madfalc0n)에 기록하고 있습니다.
-- 제가 공부한 내용을 [TIL](https://github.com/madfalc0n/TIL)에 기록하고 있습니다.
+- 공부한 내용을 [TIL](https://github.com/madfalc0n/TIL)에 기록하고 있습니다.
+- 인공지능 경진대회에 참여했던 내용을 [Keep going competitions](https://github.com/madfalc0n/keep_going_competitions)에 기록하고 있습니다.
 
 
 
