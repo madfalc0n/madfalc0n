@@ -37,6 +37,9 @@
   - 태영세라믹 - 타일 이미지 내 미세 Crack 검출 - (4/29)
   - 마인즈앤컴퍼니 - 병원 영수증 인식을 위한 OCR 알고리즘 개발 - (5/10)
 
+- [MegaProduct](https://megaproduct.lotte.net/)
+  - 롯데정보통신 - [유통 진열 상품 분류 경진대회](https://megaproduct.lotte.net/competitionSummary/6) - TOP 4% (5/105)
+
 
 
 ![Madfalc0n's github stats](https://github-readme-stats.vercel.app/api?username=madfalc0n&show_icons=true&theme=gradient&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,4000FF,7401DF,DF01D7)
