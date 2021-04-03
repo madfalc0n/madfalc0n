@@ -3,7 +3,7 @@
 
 ### 안녕하세요! 👋
 
-- 컴퓨터 비전, 강화학습, 클라우드 컴퓨팅에 관심이 있습니다.
+- 컴퓨터 비전, 로봇, 클라우드 컴퓨팅에 관심이 있습니다.
 - 1일 1커밋을 통해 Github의 풀밭을 가꾸는 것이 취미입니다.
 - 가끔 한강을 배경으로 달리기도 합니다.
 - 저의 일과를 [Study History](https://github.com/madfalc0n/study_history/tree/master/Madfalc0n)에 기록하고 있습니다.
